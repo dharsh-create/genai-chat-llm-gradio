@@ -57,7 +57,7 @@ interface.launch(share="True")
 ```
 
 ## OUTPUT:
-![Screenshot 2024-11-24 231014](https://github.com/user-attachments/assets/b7e5b157-4687-4aa9-b810-9264add71b97)
+![i](imgchat.png)
 
 
 ## RESULT:
