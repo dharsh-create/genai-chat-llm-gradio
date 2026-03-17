@@ -58,6 +58,9 @@ interface.launch(share="True")
 
 ## OUTPUT:
 ![i](imgchat.png)
+![i](img3.png)
+![i](img4.png)
+![i](img3.png)
 
 
 ## RESULT:
